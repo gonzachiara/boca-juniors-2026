@@ -81,12 +81,6 @@ Modelo de datos en **esquema estrella** con claves subrogadas reales.
 
 ---
 
-## 📁 Dataset completo
-
-Los 22 archivos CSV están disponibles en Google Drive:  
-🔗 [Acceder al dataset](https://drive.google.com/drive/folders/1u_6mNywMOZo-2gFCx_hF-fW6WptoycYR)
-
----
 
 ## 👤 Autor
 
